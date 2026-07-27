@@ -85,26 +85,25 @@ php artisan serve
 ```
 
 ---
-## Screenshot Aplikasi
+# Screenshot Aplikasi
 
-### Dashboard
+## Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-### Data Kendaraan
+## Data Kendaraan
 ![Kendaraan](screenshots/kendaraan.png)
 
-### Data Parkir
+## Data Parkir
 ![Parkir](screenshots/parkir.png)
 
-### Riwayat Parkir
+## Riwayat
 ![Riwayat](screenshots/riwayat.png)
 
-### Struk Parkir
+## Struk Parkir
 ![Struk](screenshots/struk.png)
 
-### Laporan PDF
+## Laporan PDF
 ![Laporan](screenshots/laporan.png)
-
 ---
 
 ## Author
