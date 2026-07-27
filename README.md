@@ -109,3 +109,13 @@ php artisan serve
 ## Author
 
 Fadlul Rahman Ramadhan
+
+Fresh Graduate Sistem Komputer
+
+STMIK AMIK Jayanusa Padang
+
+LinkedIn: | https://www.linkedin.com/in/fadlul-rahman-ramadhan-230716380/
+
+Email: rahmanfadlul229@gmail.com
+
+GitHub: https://github.com/FadlulRahmanRamadhan
